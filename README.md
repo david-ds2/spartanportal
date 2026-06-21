@@ -1,2 +1,2 @@
 # spartanportal
-I portal made by Joe Spartan
+A site made by Joe Spartan
